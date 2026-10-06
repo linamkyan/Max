@@ -20,8 +20,8 @@
 Требуется Node.js 20.19+ или 22.12+ (требование Vite 8).
 
 ```bash
-git clone <ссылка на репозиторий>
-cd max-chat
+git clone https://github.com/linamkyan/Max.git
+cd Max
 npm install
 npm run dev
 ```
